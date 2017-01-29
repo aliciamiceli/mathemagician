@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Numbers\EvenNumbers.cs" />
+    <Compile Include="Numbers\FibonacciNumber.cs" />
     <Compile Include="Numbers\Integer.cs" />
     <Compile Include="Numbers\NaturalNumber.cs" />
     <Compile Include="Program.cs" />

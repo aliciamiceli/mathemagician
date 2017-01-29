@@ -53,6 +53,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Numbers\EvenNumbersTests.cs" />
+    <Compile Include="Numbers\FibonacciNumberTests.cs" />
     <Compile Include="Numbers\NaturalNumberTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
